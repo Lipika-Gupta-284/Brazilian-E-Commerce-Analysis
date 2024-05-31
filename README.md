@@ -64,9 +64,6 @@ You can access the dataset [here](https://drive.google.com/file/d/1-Fv55pggi0fMR
 - Use concept like Group by and CTE along with window function to get BAsic Analysis.
 - To get more concept will be required like views or Subquery.
 - Join is must in this project, You have to join atlest 4 or 5 datasets together.
-## License
-
-This project is licensed under the [Durgesh Kumar](https://github.com/durgeshanalyst).
 
 ## Resources
 - SQL Query
@@ -75,14 +72,8 @@ This project is licensed under the [Durgesh Kumar](https://github.com/durgeshana
 
 ## Contributors
 - Durgesh Kumar [Durgesh kumar](https://github.com/durgeshanalyst)
-- Kartikeya Baijal [Kartikey baijal](https://github.com/kartikeya101)
-## Contact
+- Lipika Gupta [Lipika Gupta](https://https://github.com/Lipika-Gupta-284)
 
-- Email: [Email me](mailto:your.email@example.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/durgeshanalyst/)
-- GitHub: [GitHub Profile](https://github.com/durgeshanalyst)
-
-Feel free to reach out if you have any questions or need further information.
 
 
 
