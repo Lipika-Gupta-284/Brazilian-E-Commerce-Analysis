@@ -16,7 +16,6 @@ c. For the States identified above, do the Root Cause analysis for their perform
    You can utilize the following metrics and explore a few yourself as well by analyzing the data.
 		Category level Sales and orders placed, post-order reviews, Seller performance in terms of deliveries, product-level sales & orders placed,
 		% of orders delivered earlier than the expected date, % of orders delivered later than the expected date, etc.
-</pre>
 d. Do the above analysis for the top 2 cities which are causing the trend for each of the states identified in point (b)
 e. After doing the Root cause analysis, help the client by suggesting ways to improve the performance of the States and the cities
 
