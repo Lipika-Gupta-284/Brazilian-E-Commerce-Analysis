@@ -1,9 +1,7 @@
-This project focuses on analyzing the sales trends of a Brazilian E-commerce store over the years 2016-2018. The client's objective is to understand how sales vary across different states and identify the reasons behind these trends. 
 # Brazilian-E-Commerce-Analysis
 This project focuses on analyzing the sales trends of a Brazilian E-commerce store over the years 2016-2018. The client's objective is to understand how sales vary across different states and identify the reasons behind these trends. 
 
-### Client Prob
- <a href="https://drive.google.com/file/d/1-Fv55pggi0fMRInxiDEz3gnOgb1aIeJL/view?usp=share_link">Dataset</a>
+<a href="https://drive.google.com/file/d/1-Fv55pggi0fMRInxiDEz3gnOgb1aIeJL/view?usp=share_link">Dataset</a>
 ![image](https://user-images.githubusercontent.com/109127584/201036862-71b28382-705d-4072-a3c7-b556df1d31ce.png)
 
 <pre>Your client, a Brazilian E-commerce store, wants you to help them understand how their sales trend across different states over the years and why?. 
@@ -19,8 +17,6 @@ c. For the States identified above, do the Root Cause analysis for their perform
 		Category level Sales and orders placed, post-order reviews, Seller performance in terms of deliveries, product-level sales & orders placed,
 		% of orders delivered earlier than the expected date, % of orders delivered later than the expected date, etc.
 </pre>
-![image](https://user-images.githubusercontent.com/109127584/201037098-37a92dd2-2bcf-47b5-9d88-36ec56caec39.png)
-<pre>
 d. Do the above analysis for the top 2 cities which are causing the trend for each of the states identified in point (b)
 e. After doing the Root cause analysis, help the client by suggesting ways to improve the performance of the States and the cities
 
